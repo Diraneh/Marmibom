@@ -2,6 +2,11 @@
 
 Projet : Marmiton like
 
+ | Version | Supported          |
+| ------- | ------------------ |
+| 1.0.x   | :All navigation    |
+| 1.1.x   | : curenty develop  | 
+
 Nous avons été contacté afin de réaliser un site similaire à Marmiton.
 Le client souhaite plusieurs onglet sur son site internet.
 Les recettes du jour : Une présentation d\'une selection aléatoire de recettes avec la possibilité d\'afficher le détail quand nous cliquons dessus.
